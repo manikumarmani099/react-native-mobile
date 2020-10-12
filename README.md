@@ -1,1 +1,1 @@
-# mobile-app
+# react-native-mobile
